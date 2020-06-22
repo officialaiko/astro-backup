@@ -1,0 +1,34 @@
+[
+  {
+    "uuid": "c9ed1276-d727-4225-a9df-e5491ef407fc",
+    "name": "angelomazza1993",
+    "created": "2020-05-21 17:08:57 -0500",
+    "source": "§8[§c§lM§8] §9F_x§r",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  },
+  {
+    "uuid": "a5719098-a11a-493b-ac28-b1b0279e8f2c",
+    "name": "Enchantix",
+    "created": "2020-05-21 17:09:00 -0500",
+    "source": "§8[§c§lM§8] §9F_x§r",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  },
+  {
+    "uuid": "f6f1ea08-d163-4086-b078-3b246ba04bd6",
+    "name": "_Diamond_Fighter",
+    "created": "2020-05-23 18:22:16 -0500",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Suspected of causing chunk corruption. If you believe this was in error, feel free to join the discord server and let us know at discord.gg/SwWbhqE"
+  },
+  {
+    "uuid": "515c4aa2-6610-4daf-94ba-ce340adeb9cb",
+    "name": "Dragonguy2020",
+    "created": "2020-05-26 21:23:00 -0500",
+    "source": "AikoPlayz",
+    "expires": "2020-06-25 21:23:00 -0500",
+    "reason": "Grief"
+  }
+]
